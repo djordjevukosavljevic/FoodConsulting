@@ -3739,11 +3739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djord\\OneDrive\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj",
       "projectName": "FoodConsluting.Repositories",
-      "projectPath": "C:\\Users\\djord\\OneDrive\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj",
+      "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj",
       "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djord\\OneDrive\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\obj\\",
+      "outputPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3764,8 +3764,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\djord\\OneDrive\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Data\\FoodConsluting.Data.csproj": {
-              "projectPath": "C:\\Users\\djord\\OneDrive\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Data\\FoodConsluting.Data.csproj"
+            "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Data\\FoodConsluting.Data.csproj": {
+              "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Data\\FoodConsluting.Data.csproj"
             }
           }
         }

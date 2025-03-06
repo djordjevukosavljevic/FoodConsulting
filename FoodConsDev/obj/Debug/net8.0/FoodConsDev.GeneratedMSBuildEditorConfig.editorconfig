@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FoodConsDev
 build_property.RootNamespace = FoodConsDev
-build_property.ProjectDir = C:\Users\djord\OneDrive\Documents\Dev\FoodConsultingM8\FoodConsDev\
+build_property.ProjectDir = C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsDev\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\djord\OneDrive\Documents\Dev\FoodConsultingM8\FoodConsDev
+build_property.MSBuildProjectDirectory = C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsDev
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Areas/Administration/Views/Review.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Areas/Administration/Views/Review.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcUmV2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Areas/Administration/Views/Standards.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Areas/Administration/Views/Standards.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcU3RhbmRhcmRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/About.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Gallery.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Gallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsZXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Index.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/More.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/More.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3JlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Privacy.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Recommendations.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Recommendations.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWNvbW1lbmRhdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/Error.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/_ViewImports.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/_ViewStart.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/OneDrive/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/_Layout.cshtml]
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ntxs5kzvt6

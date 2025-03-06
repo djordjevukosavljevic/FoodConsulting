@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fVZNCOgWFj8=",
+  "dgSpecHash": "TY8ZnsCEZFg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\djord\\OneDrive\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Models\\FoodConsluting.Models.csproj",
+  "projectFilePath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Models\\FoodConsluting.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\djord\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\djord\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
