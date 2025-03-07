@@ -15,7 +15,7 @@ namespace FoodConsDev.Controllers
         {
             return View();
         }
-        public IActionResult Privacy()
+        public IActionResult Meat()
         {
             return View();
         }
