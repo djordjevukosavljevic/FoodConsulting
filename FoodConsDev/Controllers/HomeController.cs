@@ -19,6 +19,12 @@ namespace FoodConsDev.Controllers
         {
             return View();
         }
+
+        public IActionResult Fruit()
+        {
+            return View();
+        }
+
         public IActionResult About()
         {
             return View();
