@@ -7,7 +7,7 @@ namespace FoodConsDev.Areas.Controllers
 {
 
     [Area("Administration")]
-    [Route("[area]/[controller]/[action]/{id}")]
+    [Route("[area]/[administration]/[controller]/[action]")]
     public class StandardController : Controller
     {
         private readonly IStandardService standardService;
