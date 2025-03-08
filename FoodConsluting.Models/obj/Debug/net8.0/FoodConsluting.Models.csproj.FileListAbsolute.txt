@@ -24,3 +24,16 @@ C:/Users/zorzezorz/Documents/FoodConsultingDev/FoodConsluting.Models/obj/Debug/n
 /home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Models/obj/Debug/net8.0/refint/FoodConsluting.Models.dll
 /home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Models/obj/Debug/net8.0/FoodConsluting.Models.pdb
 /home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Models/obj/Debug/net8.0/ref/FoodConsluting.Models.dll
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\bin\Debug\net8.0\FoodConsluting.Models.deps.json
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\bin\Debug\net8.0\FoodConsluting.Models.dll
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\bin\Debug\net8.0\FoodConsluting.Models.pdb
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\obj\Debug\net8.0\FoodConsluting.Models.csproj.AssemblyReference.cache
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\obj\Debug\net8.0\FoodConsluting.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\obj\Debug\net8.0\FoodConsluting.Models.AssemblyInfoInputs.cache
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\obj\Debug\net8.0\FoodConsluting.Models.AssemblyInfo.cs
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\obj\Debug\net8.0\FoodConsluting.Models.csproj.CoreCompileInputs.cache
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\obj\Debug\net8.0\FoodConsluting.Models.sourcelink.json
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\obj\Debug\net8.0\FoodConsluting.Models.dll
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\obj\Debug\net8.0\refint\FoodConsluting.Models.dll
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\obj\Debug\net8.0\FoodConsluting.Models.pdb
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Models\obj\Debug\net8.0\ref\FoodConsluting.Models.dll

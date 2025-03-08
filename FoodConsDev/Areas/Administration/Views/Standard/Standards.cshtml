@@ -1,0 +1,30 @@
+
+@model IEnumerable<FoodConsluting.Models.StandardModel>
+@{
+    ViewData["Title"] = "Food safety standards"
+}
+
+<h2>Standard list</h2>
+
+
+<template>
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var standard in Model)
+            {
+                <tr>
+                    <td>@standard.id</td>
+                    <td>@standard.name</td>
+                    <td>@standard.desription</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</template>

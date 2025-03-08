@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FoodConsluting.Repositories\FoodConsluting.Repositories.csproj" />
+    <ProjectReference Include="..\FoodConsluting.Models\FoodConsluting.Models.csproj" />
   </ItemGroup>
 
 </Project>

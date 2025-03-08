@@ -1290,6 +1290,25 @@
           "bin/placeholder/FoodConsluting.Data.dll": {}
         }
       },
+      "FoodConsluting.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AutoMapper": "13.0.1",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "Dapper.SimpleCRUD": "2.3.0",
+          "Microsoft.EntityFrameworkCore": "8.0.6",
+          "Microsoft.Extensions.Configuration": "8.0.0",
+          "Microsoft.Extensions.DependencyInjection": "8.0.0",
+          "MySql.Data": "8.4.0"
+        },
+        "compile": {
+          "bin/placeholder/FoodConsluting.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FoodConsluting.Models.dll": {}
+        }
+      },
       "FoodConsluting.Repositories/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -3739,6 +3758,11 @@
       "path": "../FoodConsluting.Data/FoodConsluting.Data.csproj",
       "msbuildProject": "../FoodConsluting.Data/FoodConsluting.Data.csproj"
     },
+    "FoodConsluting.Models/1.0.0": {
+      "type": "project",
+      "path": "../FoodConsluting.Models/FoodConsluting.Models.csproj",
+      "msbuildProject": "../FoodConsluting.Models/FoodConsluting.Models.csproj"
+    },
     "FoodConsluting.Repositories/1.0.0": {
       "type": "project",
       "path": "../FoodConsluting.Repositories/FoodConsluting.Repositories.csproj",
@@ -3750,6 +3774,7 @@
       "AutoMapper >= 13.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "Dapper.SimpleCRUD >= 2.3.0",
+      "FoodConsluting.Models >= 1.0.0",
       "FoodConsluting.Repositories >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.6",
       "Microsoft.Extensions.Configuration >= 8.0.0",
@@ -3789,6 +3814,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Models\\FoodConsluting.Models.csproj": {
+              "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Models\\FoodConsluting.Models.csproj"
+            },
             "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj": {
               "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj"
             }

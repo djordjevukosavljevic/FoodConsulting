@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using FoodConsluting.Data;
+using FoodConsluting.Models;
 using FoodConsluting.Repositories;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,7 +9,9 @@ namespace FoodConsluting.Services
     public interface IStandardService
     {
 
-        public List<Standard> GetAll();
+        public List<StandardModel> GetAll();
+
+        // public Standard GetById(int id);
     }
 
     public class StandardService : IStandardService
@@ -24,12 +27,18 @@ namespace FoodConsluting.Services
             this.mapper = mapper;
         }
 
-        public List<Standard> GetAll()
+        public List<StandardModel> GetAll()
         {
             var resulltFromDb = repository.GetAll();
-            var resultModels = mapper.Map<List<Standard>>(resulltFromDb);
+            var resultModels = mapper.Map<List<StandardModel>>(resulltFromDb);
             return resultModels;
         }
 
+        // public Standard GetById(int id)
+        // {
+        //     var resultFromDb = repository.GetOne(id);
+        //     var resultModel = mapper.Map<Standard>(resultFromDb);
+        //     return resultModel;
+        // }
     }
 }

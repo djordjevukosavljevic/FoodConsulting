@@ -34,6 +34,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FoodConsluting.Services\FoodConsluting.Services.csproj" />
+    <ProjectReference Include="..\FoodConsluting.Models\FoodConsluting.Models.csproj" />
   </ItemGroup>
 
 </Project>

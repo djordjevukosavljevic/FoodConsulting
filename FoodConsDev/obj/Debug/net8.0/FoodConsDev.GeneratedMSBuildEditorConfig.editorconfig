@@ -24,8 +24,8 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcUmV2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Areas/Administration/Views/Standards.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcU3RhbmRhcmRzLmNzaHRtbA==
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Areas/Administration/Views/Standard/Standards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcU3RhbmRhcmRcU3RhbmRhcmRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/About.cshtml]

@@ -1,5 +1,6 @@
 ﻿using FoodConsluting.Data;
 using AutoMapper;
+using FoodConsluting.Models;
 
 namespace FoodConsluting.Services
 {
@@ -7,7 +8,7 @@ namespace FoodConsluting.Services
     {
 
         public MapperService(){
-            //CreateMap<Standard, StandardModel>().ReverseMap();
+            CreateMap<Standard, StandardModel>().ReverseMap();
             
         }
     }

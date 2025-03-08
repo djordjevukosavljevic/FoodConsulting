@@ -70,3 +70,5 @@ C:\Users\djord\OneDrive\Documents\Dev\FoodConsultingM8\FoodConsluting.Services\o
 C:\Users\djord\OneDrive\Documents\Dev\FoodConsultingM8\FoodConsluting.Services\obj\Debug\net8.0\refint\FoodConsluting.Services.dll
 C:\Users\djord\OneDrive\Documents\Dev\FoodConsultingM8\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.pdb
 C:\Users\djord\OneDrive\Documents\Dev\FoodConsultingM8\FoodConsluting.Services\obj\Debug\net8.0\ref\FoodConsluting.Services.dll
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Services\bin\Debug\net8.0\FoodConsluting.Models.dll
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Services\bin\Debug\net8.0\FoodConsluting.Models.pdb
