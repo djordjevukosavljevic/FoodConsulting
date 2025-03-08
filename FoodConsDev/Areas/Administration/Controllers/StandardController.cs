@@ -1,11 +1,13 @@
-﻿using FoodConsluting.Services;
+﻿using FoodConsluting.Data;
+using FoodConsluting.Models;
+using FoodConsluting.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FoodConsDev.Areas.Controllers
 {
 
     [Area("Administration")]
-    [Route("[area]/[controller]/[action]/{id}")]    
+    [Route("[area]/[controller]/[action]/{id}")]
     public class StandardController : Controller
     {
         private readonly IStandardService standardService;
@@ -15,17 +17,17 @@ namespace FoodConsDev.Areas.Controllers
         }
         public IActionResult Standards()
         {
-            var resultFromDb = standardService.GetAll();
-            return View(resultFromDb);
+            List<StandardModel> standards = standardService.GetAll();
+            return View(standards);
         }
 
-        public IActionResult GetById(int id)
-        {
-            var resultFromDb = standardService.GetById(id);
-            return View(resultFromDb);
-        }
+        // public IActionResult GetById(int id)
+        // {
+        //     var resultFromDb = standardService.GetById(id);
+        //     return View(resultFromDb);
+        // }
 
 
-    
+
     }
 }

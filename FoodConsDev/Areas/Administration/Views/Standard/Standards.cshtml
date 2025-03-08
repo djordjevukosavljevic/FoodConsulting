@@ -1,7 +1,7 @@
 
 @model IEnumerable<FoodConsluting.Models.StandardModel>
 @{
-    ViewData["Title"] = "Food safety standards"
+    ViewData["Title"] = "Food safety standards";
 }
 
 <h2>Standard list</h2>
@@ -20,9 +20,9 @@
             @foreach(var standard in Model)
             {
                 <tr>
-                    <td>@standard.id</td>
-                    <td>@standard.name</td>
-                    <td>@standard.desription</td>
+                    <td>@standard.Id</td>
+                    <td>@standard.Name</td>
+                    <td>@standard.Description</td>
                 </tr>
             }
         </tbody>

@@ -3,7 +3,7 @@
 namespace FoodConsluting.Models
 {
     
-    public class StandardModel
+    public class StandardModel 
     {
         [Key]
         public int Id { get; set; }
